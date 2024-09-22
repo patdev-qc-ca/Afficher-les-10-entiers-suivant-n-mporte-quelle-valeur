@@ -1,0 +1,1 @@
+# Afficher les 10 entiens suivant nímporte quelle valeur
